@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 16,
+    "uniqCompNum": 17,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -479,6 +479,26 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-g",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Completely Anonymous and Free to Use",
+          "meta": "By using the Ethereum Blockchain every transaction is completely anonymous, and entirely secure. &nbsp;We created our own, simple to use crypto-currancy (the MyCWEToken) to transact business within the Exchange. &nbsp;You don't need real money to work with the Exchange, but with enough work your MyCWETokens can be used to invest in our real Water Futures Market and earn real money for your efforts!"
         }
       ]
     }

@@ -442,7 +442,10 @@ h6,
 #form1-a .form-control-label {
   color: #232323;
 }
-#header3-g .mbr-section-title,
-#header3-g .mbr-section-subtitle {
-  text-align: center;
+#msg-box8-g .mbr-section-title,
+#msg-box8-g p {
+  color: #fff;
+}
+#msg-box8-g .lead {
+  color: #ffffff;
 }

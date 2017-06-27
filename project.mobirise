@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Home",
+    "currentPage": "Ethereum",
     "name": "Colorado Water Exchange",
     "theme": {
       "name": "mobirise3",
@@ -522,7 +522,7 @@
             "showButton": false
           },
           "title": "Ethereum",
-          "text": "Opensource generalized Blockchain",
+          "text": "Open Source generalized Blockchain",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {

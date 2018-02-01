@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Home",
+    "currentPage": "What do you want to do",
     "name": "Colorado Water Exchange",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 18,
+    "uniqCompNum": 17,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -70,8 +70,8 @@
             "showButtons": true
           },
           "title": "CWE",
-          "text": "The Colorado Water Exchange",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Note\" data-toolbar=\"-mbrBtnMove\">Enter!</a>  "
+          "text": "Colorado Water Exchange",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"What do you want to do\" data-toolbar=\"-mbrBtnMove\">Enter!</a>  "
         },
         {
           "_inherit": "social-buttons1",
@@ -151,8 +151,8 @@
             "showButtons": true
           },
           "title": "Note!",
-          "text": "An active Ethereum account is necessary to interact with the Colorado Water Exchange. &nbsp;Ethereum is free to use and setup takes less than 5 minutes.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"What do you want to do\" data-toolbar=\"-mbrBtnMove\">Got it! Continue</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://github.com/ethereum/mist/releases/download/v0.8.10/Ethereum-Wallet-macosx-0-8-10.dmg\" data-toolbar=\"-mbrBtnMove\">Get Ethereum</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Ethereum\" data-toolbar=\"-mbrBtnMove\">What's Ethereum?</a>"
+          "text": "An active Ethereum account is necessary interact with the Colorado Water Exchange. &nbsp;Ethereum is free to use and setup takes less than 5 minutes.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"What do you want to do\" data-toolbar=\"-mbrBtnMove\">Got it! Continue</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get Ethereum</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">What's Ethereum?</a>"
         }
       ]
     },
@@ -190,7 +190,7 @@
           },
           "title": "I want to:",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"submittx\" data-toolbar=\"-mbrBtnMove\">Enter New Transaction</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"requesttx\" data-toolbar=\"-mbrBtnMove\">Request Transactions</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"About the Exchange\" data-toolbar=\"-mbrBtnMove\">Learn about the Exchange</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"submittx\" data-toolbar=\"-mbrBtnMove\">Become a Member</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"requesttx\" data-toolbar=\"-mbrBtnMove\">Members Enter Here</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"About the Exchange\" data-toolbar=\"-mbrBtnMove\">Learn about the Exchange</a>"
         }
       ]
     },
@@ -404,7 +404,7 @@
           },
           "title1": "Record Transactions",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Upload documetation of a valid water transaction, engineering report, or other relevant data. &nbsp;The Exchange accepts any water documentation, old or new.",
+          "caption1": "Upload documetation of a valid water transaction. &nbsp;The documentation must include sale price, water source (i.e., ditch company, etc.) and number of units (i.e., shares/contracts).&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -419,8 +419,8 @@
           },
           "title2": "Recieve Tokens",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "&nbsp; Once validated by the Exchange, the Exchange will tranfer MyCWETokens to your Ethereum Wallet. &nbsp;",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption2": "Once validated by the Exchange, the Exchange will tranfer MyCWETokens to your Ethereum Wallet. &nbsp;The current rate is two (2.0) tokens for every valid transaction.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -434,7 +434,7 @@
           },
           "title3": "Request Transactions",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Transactions are recorded and kept in the Exchange's database. &nbsp;A list of all recorded transactions is on this website. &nbsp;Users can request a copy of any tranaction for a fee of 1.0 MyCWETokens. The more you give the more you get in return.",
+          "caption3": "Transactions are recorded and kept in the Exchange's database. &nbsp;A list of all recorded transactions is on this website. &nbsp;Users can request a copy of any tranaction for a fee of 1.0 MyCWETokens. &nbsp;Once the user transfers the tokens to the main account, the Exchange will send the requested transaction to the user.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -479,66 +479,26 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        }
-      ]
-    },
-    "Ethereum": {
-      "settings": {
-        "title": "Ethereum",
-        "meta_descr": "Site Generator Description"
-      },
-      "components": [
+        },
         {
           "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".lead": {
-              "color": "#ffffff"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-g",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "Ethereum",
-          "text": "Open Source generalized Blockchain",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_anchor": "content7-h",
+          "_name": "header3",
+          "_anchor": "header3-g",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
-          "text1": "<p>Blockchain technology essentially decentralizes transactions. &nbsp;It's not the \"cloud\". &nbsp;Data is not stored - instead, it is validated across millions of computers.&nbsp;</p>",
-          "text2": "<p>Ethereum allows the creation of \"smart\" contracts that are validated on the Blockchain. &nbsp;We can create our own contracts that are secure and anonymous and validated on the Blockchain.&nbsp;</p>",
-          "text3": "<p>Our own \"currency\", which we creat on the Ethereum blockchain is anonymous and free to use.&nbsp;</p>"
+          "title": "Completely Anonymous and Free to Use",
+          "meta": "By using the Ethereum Blockchain every transaction is completely anonymous, and entirely secure. &nbsp;We created our own, simple to use crypto-currancy (the MyCWEToken) to transact business within the Exchange. &nbsp;You don't need real money to work with the Exchange, but with enough work your MyCWETokens can be used to invest in our real Water Futures Market and earn real money for your efforts!"
         }
       ]
     }
